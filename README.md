@@ -1,6 +1,6 @@
-# commodum_copia
+# commodum_copia (https://commodumcopia.web.app)
 
-This template should help get you started developing with Vue 3 in Vite.
+[This template should help get you started developing with Vue 3 in Vite.]
 
 ## Recommended IDE Setup
 
@@ -22,7 +22,7 @@ npm install
 npm run dev
 ```
 
-### Compile and Minify for Production
+### Compile and Minify for Produc
 
 ```sh
 npm run build
