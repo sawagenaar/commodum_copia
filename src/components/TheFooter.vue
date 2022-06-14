@@ -8,7 +8,7 @@
     </div>
     <div class="navbar">
       <ul class="footer-list">
-        <li v-for="(link, i) in footerLinks" :key="ix">
+        <li v-for="(link, i) in footerLinks" :key="i">
           <router-link class="navbar-link" :to="link.url">{{ link.title }}</router-link>
         </li>
       </ul>
