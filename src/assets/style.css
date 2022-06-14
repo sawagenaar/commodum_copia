@@ -105,6 +105,7 @@ body {
 
 .lyout-menu {
     position: absolute;
+     z-index: 99;
 }
 
 .lyout-menu-list  {
