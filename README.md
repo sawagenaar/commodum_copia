@@ -1,4 +1,4 @@
-## commodum_copia (https://commodumcopia.web.app)
+## c_c (https://commodumcopia.web.app)
 Dit project build Vue 3 is gebaseerd op Vita met behulp van vue-router 4.
 
 Pagina's waaraan ik heb gewerkt in folder src/pages: Home.vue, Categories.vue en ProductCategories.vue. 
